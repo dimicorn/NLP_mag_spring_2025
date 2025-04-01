@@ -6,4 +6,5 @@
 - [Семинар 4 - CNN (04.03.2025)](Seminar%204)
 - [Семинар 5 - RNN, NER (18.03.2025)](Seminar%205)
 - [Семинар 6 - Seq2Seq, Encoder-decoder NMT (25.03.2025)](Seminar%206)
+- [Семинар 7 - Pretrained language models (01.04.2025)](Seminar%207)
 - [Дополнительные ноутбуки](Additional%20)
