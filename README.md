@@ -7,4 +7,5 @@
 - [Семинар 5 - RNN, NER (18.03.2025)](Seminar%205)
 - [Семинар 6 - Seq2Seq, Encoder-decoder NMT (25.03.2025)](Seminar%206)
 - [Семинар 7 - Pretrained language models (01.04.2025)](Seminar%207)
+- [Семинар 8 - Large language models (08.04.2025)](Seminar%208)
 - [Дополнительные ноутбуки](Additional%20)
